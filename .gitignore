@@ -1,0 +1,6 @@
+Profiles/*
+!Profiles/defaul/attributes.xml
+autoperfcaptures/
+combatrecordings/
+frontend/
+spawnscreen/
