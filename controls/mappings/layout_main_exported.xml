@@ -1,5 +1,5 @@
-<ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="test2">
- <CustomisationUIHeader label="test2" description="" image="">
+<ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="main">
+ <CustomisationUIHeader label="main" description="" image="">
   <devices>
    <keyboard instance="1"/>
    <mouse instance="1"/>
@@ -422,6 +422,9 @@
  <actionmap name="turret_movement">
   <action name="turret_gyromode">
    <rebind input="js1_button2"/>
+  </action>
+  <action name="turret_remote_exit">
+   <rebind input="js3_button8"/>
   </action>
  </actionmap>
  <actionmap name="turret_advanced">
